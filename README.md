@@ -10,7 +10,7 @@ DOMAIN:PYTHON PROGRAMMING
 DURATION:4 WEEKS
 
 MENTOR:NEELA SANTOSH
-
+------
 Overview of the Project
 This project involves building a predictive machine learning model using scikit-learn to classify and predict outcomes from a dataset. The objective is to showcase the implementation and evaluation of a classification model, focusing on model training, testing, and performance evaluation.
 
@@ -67,7 +67,9 @@ Output:
 
 ![Image](https://github.com/user-attachments/assets/218cfd64-e518-49b7-81a7-25a55f8e3806)
 
-Contact
+-----
+
+**Contact**
 For any questions or feedback, feel free to reach out to:
 
 GUMREDDY LAKSHMI NARAYANA REDDY
