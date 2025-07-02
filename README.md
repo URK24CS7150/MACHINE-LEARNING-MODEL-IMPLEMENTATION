@@ -10,14 +10,17 @@ DOMAIN:PYTHON PROGRAMMING
 DURATION:4 WEEKS
 
 MENTOR:NEELA SANTOSH
+
 ------
 Overview of the Project
 This project involves building a predictive machine learning model using scikit-learn to classify and predict outcomes from a dataset. The objective is to showcase the implementation and evaluation of a classification model, focusing on model training, testing, and performance evaluation.
 
+------
 TASK - 1: Predictive Modeling with scikit-learn
 Objective:
 To implement a predictive classification model that classifies the iris flowers dataset using a Random Forest Classifier. The goal is to demonstrate the steps of data exploration, preprocessing, model building, evaluation, and interpretation.
 
+------
 Key Activities:
 Data exploration and visualization
 Data preprocessing (scaling and splitting)
@@ -58,6 +61,8 @@ Data Preprocessing: The dataset is split into training and testing sets, followe
 Model: A RandomForestClassifier is initialized and trained on the training data.
 Evaluation: The model’s accuracy, confusion matrix, and classification report are computed to evaluate its performance.
 Visualization: The confusion matrix and feature importance are visualized for better understanding of the model's predictions and the importance of each feature.
+
+------
 Output:
 ![Image](https://github.com/user-attachments/assets/f2add86b-fe94-42c2-b854-f8198e53c6e6)
 
@@ -70,6 +75,8 @@ Output:
 -----
 
 **Contact**
+
+-------
 For any questions or feedback, feel free to reach out to:
 
 GUMREDDY LAKSHMI NARAYANA REDDY
