@@ -59,3 +59,17 @@ Model: A RandomForestClassifier is initialized and trained on the training data.
 Evaluation: The model’s accuracy, confusion matrix, and classification report are computed to evaluate its performance.
 Visualization: The confusion matrix and feature importance are visualized for better understanding of the model's predictions and the importance of each feature.
 Output:
+![Image](https://github.com/user-attachments/assets/f2add86b-fe94-42c2-b854-f8198e53c6e6)
+
+![Image](https://github.com/user-attachments/assets/c8d730e1-ce6f-434a-a1c2-2f76600fa45d)
+
+![Image](https://github.com/user-attachments/assets/42f901cd-986f-4c9a-a193-78cd6142d848)
+
+![Image](https://github.com/user-attachments/assets/218cfd64-e518-49b7-81a7-25a55f8e3806)
+
+Contact
+For any questions or feedback, feel free to reach out to:
+
+GUMREDDY LAKSHMI NARAYANA REDDY
+Company: CODTECH IT SOLUTIONS
+Email:gumreddylakshminarayana@karunya.edu.in
